@@ -1,0 +1,40 @@
+{
+  "name": "foundry-cli",
+  "description": "A fast app generater based on NimbusBase Foundry",
+  "version": "1.0.3",
+  "engines": {
+    "node": ">=0.10.* <0.11.4"
+  },
+  "bin": {
+    "foundry-cli": "./bin/foundry"
+  },
+  "engineStrict": true,
+  "dependencies": {
+    "grunt": "*",
+    "adm-zip": "^0.4.4",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-nodeunit": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-cssmin": "*",
+    "ncp": "^0.6.0",
+    "rimraf": "^2.2.8"
+  },
+  "devDependencies": {
+    "adm-zip": "^0.4.4",
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-nodeunit": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "ncp": "^0.6.0",
+    "rimraf": "^2.2.8"
+  },
+  "readme": "Foundery\n========\n\nNimbusBase Foundery\n",
+  "readmeFilename": "README.md",
+  "_id": "foundry-cli@1.0.3",
+  "_from": "foundry-cli@"
+}

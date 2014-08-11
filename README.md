@@ -1,4 +1,4 @@
-foundry-cli
-===========
+Foundery
+========
 
-foundry command line
+NimbusBase Foundery
