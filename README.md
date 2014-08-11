@@ -1,4 +1,4 @@
-Foundery
+Foundry
 ========
 
-NimbusBase Foundery
+NimbusBase Foundry
