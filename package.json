@@ -1,7 +1,7 @@
 {
   "name": "foundry-cli",
   "description": "A fast app generater based on NimbusBase Foundry",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "node": ">=0.10.* <0.11.4"
   },
@@ -21,7 +21,6 @@
     "ncp": "^0.6.0",
     "rimraf": "^2.2.8"
   },
-  "readme": "Foundry\n========\n\nNimbusBase Foundry\n",
   "readmeFilename": "README.md",
   "_id": "foundry-cli@1.0.3",
   "_from": "foundry-cli@"
